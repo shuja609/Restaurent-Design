@@ -2,6 +2,9 @@
 
 A modern, responsive restaurant website built with HTML, CSS, and JavaScript. The website showcases a fine dining French restaurant with features like menu display, gallery, about section, and contact form.
 
+## Live Demo
+[View Live Demo](https://shuja609.github.io/Restaurent-Design/)
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop
